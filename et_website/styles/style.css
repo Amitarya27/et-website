@@ -299,6 +299,6 @@ a{
 }
 @media (max-width: 400px){
     .header-text{
-        margin-top: 100px;
+        margin-top: 80px;
     }
 }
