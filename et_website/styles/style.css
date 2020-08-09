@@ -297,3 +297,8 @@ a{
     /* background: #fad6dc; */
     border: 2px solid #f67c92;
 }
+@media (max-width: 400px){
+    .header-text{
+        margin-top: 100px;
+    }
+}
